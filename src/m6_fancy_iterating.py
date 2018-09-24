@@ -495,7 +495,7 @@ def print_items_that_are_strings(sequence):
       bone is at index 4
     """
     # ------------------------------------------------------------------
-    # TODO: 8. Implement and test this function.
+    # TOO: 8. Implement and test this function.
     #
     # IMPORTANT:
     #   -- A string is, by definition, an object whose type is   str.
@@ -531,7 +531,7 @@ def print_items_that_are_odd_integers(sequence):
       33 is at index 5
     """
     # ------------------------------------------------------------------
-    # TODO: 9. Implement and test this function.
+    # TDO: 9. Implement and test this function.
     #
     # IMPORTANT:  The  type  function returns  int  if its argument
     #   is an integer.  Note that   int   has NO quotes surrounding it.
@@ -545,4 +545,6 @@ def print_items_that_are_odd_integers(sequence):
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
+
+
 main()
