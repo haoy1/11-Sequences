@@ -628,7 +628,7 @@ def sum_first_n(numbers, n):
       - sum_first_n(numbers, 4) returns 93
     Type hints:
       :type numbers:   list of tuple (of numbers)
-      :type n: int
+      :type n: int  
     """
     # ------------------------------------------------------------------
     # TODO: 9. Implement and test this function.
